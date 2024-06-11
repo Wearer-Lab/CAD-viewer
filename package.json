@@ -1,7 +1,7 @@
 {
   "name": "online-3d-viewer",
   "version": "0.12.0",
-  "description": "HH - CAD Viewer",
+  "description": "CAD Viewer",
   "license": "MIT",
   "type": "module",
   "main": "./build/engine/o3dv.module.js",
